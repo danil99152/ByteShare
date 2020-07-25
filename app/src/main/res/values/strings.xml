@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeamSample</string>
+    <string name="enable_nfc">Please enable NFC</string>
+    <string name="enable_beam">Please enable Android Beam</string>
+    <string name="nfc_not_available">NFC is not available</string>
+    <string name="tasks">Tasks</string>
+    <string name="tasks_received">Tasks Received</string>
+    <string name="summary">Summary</string>
+    <string name="addTask">Add task</string>
+    <string name="received_message">Received message</string>
+</resources>
